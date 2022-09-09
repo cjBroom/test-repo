@@ -1,2 +1,1 @@
-# test-repo
-Test repository for learning basic GitHub commands
+Testing editing README.md from within Vim
